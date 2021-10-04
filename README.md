@@ -1,14 +1,21 @@
 # Sun shine music academy
  learn so many things from us
 
- ## like GUiter
+ ## GUiter
+You can Learn Guiter from us.
+
  ## like Piano
+ You can Learn Piano from us.
+
  ## like Dutara
+ You can Learn Duatara from us.
+
  ## like ektara
+ You can Learn Ektara from us.
 
 
 
 
 
-Here is the site link [Site linkdeployment](https://infallible-tereshkova-582f25.netlify.app/) for more information.
+Here is the website link [Site link](https://infallible-tereshkova-582f25.netlify.app/) please visit for more information.
 
