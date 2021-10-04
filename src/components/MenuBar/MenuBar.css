@@ -1,0 +1,25 @@
+.items {
+  list-style: none;
+  margin-right: 30px;
+  font-size: 22px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+  margin-top: 10px !important;
+}
+.items:hover {
+  color: rgb(255, 115, 0);
+}
+.MenuBar-container {
+  background-color: gray;
+  width: 100vw;
+  
+}
+.h1hover{
+  margin-top: 10px !important;
+}
+.h1hover:hover {
+  color: rgb(255, 115, 0) !important;
+}

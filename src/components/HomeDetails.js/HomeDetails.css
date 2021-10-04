@@ -1,0 +1,9 @@
+.btn-custom {
+  position: relative;
+}
+.btn-position {
+  position: absolute;
+  bottom: 5px;
+  left: 23%;
+  /* top: 50%; */
+}
