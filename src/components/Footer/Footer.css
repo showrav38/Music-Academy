@@ -17,7 +17,7 @@
   display: inline;
 }
 .footer-menu:hover {
-  color: orange;
+  color: orange !important;
 }
 .footer-input {
   padding: 8px;

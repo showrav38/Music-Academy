@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee, faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import {faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import './HomeDetails.css';
 
 const HomeDetails = props => {
@@ -13,11 +13,9 @@ const HomeDetails = props => {
         style={{
           height: '500px',
           width: '310px',
-          // margin: 'auto',
           marginBottom:'40px',
           borderRadius: '10px',
           backgroundColor: '#f5f4f4'
-          // backgroundImage: 'linear-gradient(to right,#83a4d4,#b6fbff)',
         }}
       >
         {/* all details information */}
@@ -28,7 +26,7 @@ const HomeDetails = props => {
         <p>Learning Level: {topInnovation}</p>
         <h4 className="mb-5">Price: {price}</h4>
         <div className="d-flex justify-content-center my-auto btn-position">
-          <button className="btn btn-primary">{element}Add to Cart</button>
+          <button className="btn btn-primary">{element}Purchase It</button>
         </div>
       </div>
     </div>

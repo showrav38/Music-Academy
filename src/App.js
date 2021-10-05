@@ -18,8 +18,9 @@ function App() {
   return (
     <div className="control">
       <Router>
-        {/* <MenuBar></MenuBar> */}
         <Switch>
+
+          {/* all router */}
           <Route exact path="/home">
             <Home></Home>
           </Route>
@@ -50,11 +51,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
-        {/* <Footer></Footer> */}
-        {/* <MenuBar></MenuBar> */}
       </Router>
-
-      {/* <Footer></Footer> */}
     </div>
   );
 }

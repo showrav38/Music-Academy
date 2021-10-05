@@ -1,12 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import Footer from '../Footer/Footer';
-import HeadFoot from '../HeadFoot/HeadFoot';
 import HomeDetails from '../HomeDetails.js/HomeDetails';
-import MenuBar from '../MenuBar/MenuBar';
 import './Courses.css';
+
 const Services = () => {
   const [service, setService] = useState([]);
 
+  // feth the custom fake data
   useEffect(() => {
     fetch('./allMusic.JSON')
       .then(res => res.json())
