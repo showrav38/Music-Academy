@@ -22,4 +22,4 @@ Purchase Our Course and start learning Guitar.
 
 ## We also teach how to play Piano,Harmonium,Tabla etc.
 
-Here is the website link [Site link](https://infallible-tereshkova-582f25.netlify.app/) please visit for more information.
+Here is the website link [Site link](https://musicacademybangladesh.netlify.app/) please visit for more information.
