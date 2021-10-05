@@ -46,20 +46,20 @@ const MenuBar = () => {
                   <li className="items">Home</li>
                 </Link>
 
-                <Link to="/services" className="text-decoration-none">
-                  <li className="items">Services</li>
+                <Link to="/courses" className="text-decoration-none">
+                  <li className="items">Courses</li>
                 </Link>
 
                 <Link to="/about-us" className="text-decoration-none">
                   <li className="items">About us</li>
                 </Link>
 
-                <Link to="/contact-us" className="text-decoration-none">
-                  <li className="items">Contact us</li>
-                </Link>
-
                 <Link to="/faq" className="text-decoration-none">
                   <li className="items">FAQ</li>
+                </Link>
+
+                <Link to="/contact-us" className="text-decoration-none">
+                  <li className="items">Contact us</li>
                 </Link>
               </ul>
             </div>

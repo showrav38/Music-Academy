@@ -1,5 +1,14 @@
-.grids{
-    display: grid;
+.grids {
+  /* display: grid;
     grid-template-columns: repeat(3,1fr);
-    margin-left: 51px;
+    margin: auto;
+    text-align: center;
+    justify-items: center; */
+  /* margin-left: 51px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }

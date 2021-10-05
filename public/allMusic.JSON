@@ -57,18 +57,18 @@
   },
 
   {
-    "name": "Guiter",
+    "name": "Veena",
     "born": 1879,
     "price": 5000,
-    "img": "https://images.pexels.com/photos/1751731/pexels-photo-1751731.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "img": "https://img3.exportersindia.com/product_images/bc-small/2019/12/2066479/musical-sitar-1575540226-5195826.jpeg",
     "topInnovation": "Beginer",
-    "bornPlace": "Germany"
+    "bornPlace": "India"
   },
   {
-    "name": "Piano",
+    "name": "Drum",
     "born": 1867,
     "price": 4000,
-    "img": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGlhbm98ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+    "img": "https://www.musikshack.com/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/4/0/400518.jpg",
     "topInnovation": "Super Advance",
     "bornPlace": "Poland"
   }

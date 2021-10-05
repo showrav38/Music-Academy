@@ -1,13 +1,13 @@
 import React from 'react';
-import Footer from '../Footer/Footer';
-import MenuBar from '../MenuBar/MenuBar';
+// import Footer from '../Footer/Footer';
+// import MenuBar from '../MenuBar/MenuBar';
 import './Contact.css';
 const Contact = () => {
   return (
-    <div>
-      <MenuBar></MenuBar>
+    <div className="containers pb-3">
       <div>
-        <div className="container">
+        <div className="containers">
+          <h1 className='text-center pt-5'>Contact Us</h1>
           <div className="content">
             <div className="left-side">
               <div className="address details">
@@ -53,7 +53,6 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <Footer></Footer>
     </div>
   );
 };
